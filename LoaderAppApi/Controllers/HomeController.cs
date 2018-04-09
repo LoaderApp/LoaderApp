@@ -8,6 +8,7 @@ namespace LoaderAppApi.Controllers
 {
     public class HomeController : Controller
     {
+        // Comment
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
